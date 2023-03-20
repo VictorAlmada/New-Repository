@@ -1,1 +1,1 @@
-# ESTOU INICIANDO NA PROGRAMAÇÃO, ENTÃO ESTOU TENTANDO DESENVOLVER A LÓGICA DE ALGUMAS CALCULADORAS SIMPLES!
+# Olá! Sou iniciante na programação. Estou praticando o desenvolvimento da lógica de uma calculadora simples com a linguagem Python! :)
