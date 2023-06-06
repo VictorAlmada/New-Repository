@@ -1,1 +1,1 @@
-# Olá! Sou iniciante na programação. Estou praticando o desenvolvimento da lógica de uma calculadora simples com a linguagem Python! :)
+# Olá! Sou iniciante na programação. Estou praticando o desenvolvimento de programas simples com a linguagem Python! :)
